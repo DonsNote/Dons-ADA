@@ -1,0 +1,30 @@
+[
+	{
+		"userId": "1",
+		"userNickname": "test1",
+		"userMail": "example@example.com",
+		"userPhone": "010-0000-0000",
+        "userProfile": ""
+	},
+	{
+		"userId": "2",
+		"userNickname": "test1",
+		"userMail": "example@example.com",
+		"userPhone": "010-0000-0000",
+        "userProfile": ""
+	},
+	{
+		"userId": "3",
+		"userNickname": "test1",
+		"userMail": "example@example.com",
+		"userPhone": "010-0000-0000",
+        "userProfile": ""
+	},
+	{
+		"userId": "4",
+		"userNickname": "test1",
+		"userMail": "example@example.com",
+		"userPhone": "010-0000-0000",
+        "userProfile": ""
+	}
+]
